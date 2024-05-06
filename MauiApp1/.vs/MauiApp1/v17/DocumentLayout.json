@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|d:\\nackademin\\cms23-aspnet-2\\mauiapp1\\mauiapp1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{196AA4BC-6F8B-4F8B-893C-C52C6533116F}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "MauiApp1\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "MauiApp1\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:42:33.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "MauiApp1\\Components\\_Imports.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\_Imports.razor",
+              "RelativeToolTip": "MauiApp1\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:42:25.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\App.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\App.xaml",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\App.xaml",
+              "RelativeToolTip": "MauiApp1\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T23:42:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:41:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\MauiProgram.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\MauiProgram.cs",
+              "RelativeToolTip": "MauiApp1\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:41:41.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "MauiApp1\\wwwroot\\index.html",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\wwwroot\\index.html",
+              "RelativeToolTip": "MauiApp1\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-05T23:41:29.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp1\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T23:41:11.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MauiApp1\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "MauiApp1\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:41:01.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "MauiApp1\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "MauiApp1\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:40:55.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "MauiApp1\\Components\\Routes.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Routes.razor",
+              "RelativeToolTip": "MauiApp1\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:39:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MauiApp1\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\MauiApp1\\MauiApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MauiApp1\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T23:39:34.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

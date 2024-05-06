@@ -1,0 +1,6 @@
+@ManeroAccountApi_HostAddress = http://localhost:5014
+
+GET {{ManeroAccountApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

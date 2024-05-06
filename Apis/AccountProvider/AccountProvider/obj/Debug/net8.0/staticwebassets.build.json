@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s4SzHG6M+KyDNjnlhHud5M8HGc8OkrJB8EuK2cyvJRo=",
+  "Source": "AccountProvider",
+  "BasePath": "_content/AccountProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

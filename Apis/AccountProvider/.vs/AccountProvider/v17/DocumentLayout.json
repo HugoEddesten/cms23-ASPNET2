@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|d:\\nackademin\\cms23-aspnet-2\\apis\\accountprovider\\accountprovider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|solutionrelative:accountprovider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|d:\\nackademin\\cms23-aspnet-2\\apis\\accountprovider\\accountprovider\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|solutionrelative:accountprovider\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|d:\\nackademin\\cms23-aspnet-2\\apis\\accountprovider\\accountprovider\\factories\\accountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|solutionrelative:accountprovider\\factories\\accountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|d:\\nackademin\\cms23-aspnet-2\\apis\\accountprovider\\accountprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|solutionrelative:accountprovider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|d:\\nackademin\\cms23-aspnet-2\\apis\\accountprovider\\accountprovider\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F928BA-6D66-4244-ACF5-E9EB96280600}|AccountProvider\\AccountProvider.csproj|solutionrelative:accountprovider\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\appsettings.json",
+              "RelativeDocumentMoniker": "AccountProvider\\appsettings.json",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\appsettings.json",
+              "RelativeToolTip": "AccountProvider\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T13:41:35.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountFactory.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Factories\\AccountFactory.cs",
+              "RelativeDocumentMoniker": "AccountProvider\\Factories\\AccountFactory.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Factories\\AccountFactory.cs",
+              "RelativeToolTip": "AccountProvider\\Factories\\AccountFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:48:00.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "AccountProvider\\Models\\AccountModel.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Models\\AccountModel.cs",
+              "RelativeToolTip": "AccountProvider\\Models\\AccountModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:47:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Program.cs",
+              "RelativeDocumentMoniker": "AccountProvider\\Program.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Program.cs",
+              "RelativeToolTip": "AccountProvider\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:03:59.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AccountProvider\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\Apis\\AccountProvider\\AccountProvider\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AccountProvider\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAowGAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:02:59.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

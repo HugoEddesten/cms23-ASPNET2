@@ -1,0 +1,29 @@
+.profile-img {
+    position: relative;
+    display: flex;
+    align-self: end;
+    justify-self: center;
+    align-content: center;
+    height: 182px;
+    width: 182px;
+    border: solid 8px var(--color-light-gray);
+    border-radius: 100%;
+}
+
+.edit {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    align-items: center;
+    padding: 25px;
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    background-color: var(--color-light-gray);
+}
+
+.edit:hover {
+    cursor: pointer;
+}

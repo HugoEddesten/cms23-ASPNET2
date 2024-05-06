@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R1FGhhskC95pOI3s9SK2D+MNhhHkEWXshLmTMffgPt4=",
+  "Source": "SubscribeProvider",
+  "BasePath": "_content/SubscribeProvider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

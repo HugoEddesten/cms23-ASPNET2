@@ -1,0 +1,227 @@
+/* /Components/Layout/MainLayout.razor.rz.scp.css */
+.page[b-jdwrpcxp9b] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-jdwrpcxp9b] {
+    flex: 1;
+}
+
+.sidebar[b-jdwrpcxp9b] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-jdwrpcxp9b] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-jdwrpcxp9b]  a, .top-row[b-jdwrpcxp9b]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+        .top-row[b-jdwrpcxp9b]  a:hover, .top-row[b-jdwrpcxp9b]  .btn-link:hover {
+            text-decoration: underline;
+        }
+
+        .top-row[b-jdwrpcxp9b]  a:first-child {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+@media (max-width: 640.98px) {
+    .top-row[b-jdwrpcxp9b] {
+        justify-content: space-between;
+    }
+
+        .top-row[b-jdwrpcxp9b]  a, .top-row[b-jdwrpcxp9b]  .btn-link {
+            margin-left: 0;
+        }
+}
+
+@media (min-width: 641px) {
+    .page[b-jdwrpcxp9b] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-jdwrpcxp9b] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-jdwrpcxp9b] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+        .top-row.auth[b-jdwrpcxp9b]  a:first-child {
+            flex: 1;
+            text-align: right;
+            width: 0;
+        }
+
+    .top-row[b-jdwrpcxp9b], article[b-jdwrpcxp9b] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Components/Pages/EditProfile.razor.rz.scp.css */
+section[b-jwkrm90v88] {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    gap: 32px;
+}
+
+.profile-img[b-jwkrm90v88] {
+    position: relative;
+    display: flex;
+    align-self: end;
+    justify-self: center;
+    align-content: center;
+    height: 182px;
+    width: 182px;
+    border: solid 8px var(--color-light-gray);
+    border-radius: 100%;
+    margin-top: 91px;
+    
+}
+
+.edit[b-jwkrm90v88] {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    align-items: center;
+    padding: 25px;
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    background-color: var(--color-light-gray);
+}
+
+.edit:hover[b-jwkrm90v88] {
+    cursor: pointer;
+}
+
+form[b-jwkrm90v88] {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr auto;
+    gap: 12px;
+}
+
+button[b-jwkrm90v88] {
+    padding: 18px;
+}
+/* /Components/Pages/Home.razor.rz.scp.css */
+section[b-h1w4yl8sc9] {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 25px;
+}
+
+.profile[b-h1w4yl8sc9] {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    gap: 24px;
+}
+
+.profile-img[b-h1w4yl8sc9] {
+    position: relative;
+    display: flex;
+    align-self: end;
+    justify-self: center;
+    align-content: center;
+
+    height: 182px;
+    width: 182px;
+
+    border: solid 8px var(--color-light-gray);
+    border-radius: 100%;
+}
+
+.edit[b-h1w4yl8sc9] {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    align-items: center;
+    padding: 25px;
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    background-color: var(--color-light-gray);
+}
+
+.edit:hover[b-h1w4yl8sc9] {
+    cursor: pointer;
+    
+}
+
+.profile-info[b-h1w4yl8sc9] {
+    align-self: end;
+    text-align: center;
+}
+
+.list[b-h1w4yl8sc9] {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    background-color: var(--color-light-gray);
+    gap: 1px;
+    padding: 1px 0;
+
+}
+
+.option[b-h1w4yl8sc9] {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    padding: 10px 12px;
+    background-color: var(--color-white);
+}
+
+.option:hover[b-h1w4yl8sc9] {
+    cursor: pointer;
+    background-color: var(--color-gray-100);
+    text-decoration: none;
+}
+
+.content[b-h1w4yl8sc9] {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    gap: 18px;
+}
+
+h5[b-h1w4yl8sc9] {
+    margin: 0;
+}
+
+.image[b-h1w4yl8sc9] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px var(--color-light-gray);
+    height: 18px;
+    width: 18px;
+    padding: 25px;
+    border-radius: 100%;
+    
+
+}
+
+.chevron[b-h1w4yl8sc9] {
+    justify-self: end;
+}
