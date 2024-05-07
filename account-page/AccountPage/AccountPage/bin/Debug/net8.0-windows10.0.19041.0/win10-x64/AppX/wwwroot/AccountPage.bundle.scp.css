@@ -77,6 +77,12 @@ main[b-jdwrpcxp9b] {
     }
 }
 /* /Components/Pages/EditProfile.razor.rz.scp.css */
+section[b-jwkrm90v88] {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    gap: 32px;
+}
+
 .profile-img[b-jwkrm90v88] {
     position: relative;
     display: flex;
@@ -87,6 +93,8 @@ main[b-jdwrpcxp9b] {
     width: 182px;
     border: solid 8px var(--color-light-gray);
     border-radius: 100%;
+    margin-top: 91px;
+    
 }
 
 .edit[b-jwkrm90v88] {
@@ -106,10 +114,21 @@ main[b-jdwrpcxp9b] {
 .edit:hover[b-jwkrm90v88] {
     cursor: pointer;
 }
+
+form[b-jwkrm90v88] {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr auto;
+    gap: 12px;
+}
+
+button[b-jwkrm90v88] {
+    padding: 18px;
+}
 /* /Components/Pages/Home.razor.rz.scp.css */
 section[b-h1w4yl8sc9] {
     display: grid;
     grid-template-rows: 1fr 1fr;
+    gap: 25px;
 }
 
 .profile[b-h1w4yl8sc9] {

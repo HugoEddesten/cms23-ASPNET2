@@ -1,7 +1,20 @@
 ﻿@page "/edit"
+@using AccountPage.Models
 
 @code {
+    private AccountForm Form = new();
+    private EditContext? editContext;
 
+    private void Validate(ChangeEventArgs e)
+    {
+        editContext!.Validate();
+    }
+
+    protected override void OnInitialized()
+    {
+        Form = new();
+        editContext = new(Form);
+    }
 }
 
 <section>
@@ -13,29 +26,29 @@
         </div>
     </div>
 
-    <form class="" action="/" method="post">
+    <EditForm class="" EditContext="editContext">
         <div class="input-group">
             <label>FIRST NAME</label>
-            <input />
+            <InputText @bind-Value="Form.FirstName"/>
         </div>
 
         <div class="input-group">
             <label>LAST NAME</label>
-            <input />
+            <InputText @bind-Value="Form.LastName" />
         </div>
 
         <div class="input-group">
             <label>EMAIL</label>
-            <input />
+            <InputText @bind-Value="Form.Email" />
         </div>
 
         <div class="input-group">
             <label>PHONE NUMBER</label>
-            <input />
+            <InputText @bind-Value="Form.PhoneNumber" />
         </div>
 
         <button class="btn btn-main" type="submit">SAVE CHANGES</button>
-    </form>
+    </EditForm>
 </section>
 
 

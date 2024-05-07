@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+feb2a0848c5512ca22119421aeaa84038e79d69a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

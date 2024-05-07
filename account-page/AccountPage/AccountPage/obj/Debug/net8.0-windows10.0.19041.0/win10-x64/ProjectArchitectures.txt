@@ -1,1 +1,1 @@
-D:\nackademin\cms23-ASPNET-2\account-page\AccountPage\AccountPage\AccountPage.csproj;x64
+C:\Nackademin\cms23-ASPNET2\account-page\AccountPage\AccountPage\AccountPage.csproj;x64
