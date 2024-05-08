@@ -1,5 +1,6 @@
 ﻿@page "/edit"
 @using AccountPage.Models
+@inject NavigationManager navigationManager;
 
 @code {
     private AccountForm Form = new();
@@ -12,8 +13,19 @@
 
     protected override void OnInitialized()
     {
-        Form = new();
+        Form = new()
+        {
+            FirstName = "Hugo",
+            LastName = "Eddesten",
+            Email = "hugo.eddesten1@gmail.com"
+        };
         editContext = new(Form);
+    }
+
+    private void Submit()
+    {
+        
+        navigationManager.NavigateTo("/edit", true);
     }
 }
 
@@ -26,28 +38,38 @@
         </div>
     </div>
 
-    <EditForm class="" EditContext="editContext">
-        <div class="input-group">
-            <label>FIRST NAME</label>
-            <InputText @bind-Value="Form.FirstName"/>
-        </div>
+    <EditForm EditContext="editContext" OnValidSubmit="Submit">
+        <DataAnnotationsValidator />
 
-        <div class="input-group">
-            <label>LAST NAME</label>
-            <InputText @bind-Value="Form.LastName" />
-        </div>
+        <div class="form">
+            <div class="input-group">
+                <label>FIRST NAME</label>
+                <InputText @bind-Value="Form.FirstName" />
 
-        <div class="input-group">
-            <label>EMAIL</label>
-            <InputText @bind-Value="Form.Email" />
-        </div>
+                <ValidationMessage For="@(() => Form.FirstName)" />
+            </div>
 
-        <div class="input-group">
-            <label>PHONE NUMBER</label>
-            <InputText @bind-Value="Form.PhoneNumber" />
-        </div>
+            <div class="input-group">
+                <label>LAST NAME</label>
+                <InputText @bind-Value="Form.LastName" />
+                <ValidationMessage For="@(() => Form.LastName)" />
+            </div>
 
-        <button class="btn btn-main" type="submit">SAVE CHANGES</button>
+            <div class="input-group">
+                <label>EMAIL</label>
+                <InputText @bind-Value="Form.Email" />
+                <ValidationMessage For="@(() => Form.Email)" />
+            </div>
+
+            <div class="input-group">
+                <label>PHONE NUMBER</label>
+                <InputText @bind-Value="Form.PhoneNumber" />
+                <ValidationMessage For="@(() => Form.PhoneNumber)" />
+            </div>
+
+            <button class="btn btn-main" type="submit">SAVE CHANGES</button>
+        </div>
+        
     </EditForm>
 </section>
 

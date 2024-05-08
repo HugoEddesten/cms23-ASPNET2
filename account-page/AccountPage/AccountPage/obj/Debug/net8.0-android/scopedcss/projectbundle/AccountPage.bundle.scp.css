@@ -77,10 +77,58 @@ main[b-jdwrpcxp9b] {
     }
 }
 /* /Components/Pages/EditProfile.razor.rz.scp.css */
+section[b-jwkrm90v88] {
+    display: grid;
+    grid-template-rows: 1fr auto;
+    gap: 32px;
+}
+
+.profile-img[b-jwkrm90v88] {
+    position: relative;
+    display: flex;
+    align-self: end;
+    justify-self: center;
+    align-content: center;
+    height: 182px;
+    width: 182px;
+    border: solid 8px var(--color-light-gray);
+    border-radius: 100%;
+    margin-top: 91px;
+    
+}
+
+.edit[b-jwkrm90v88] {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    align-items: center;
+    padding: 25px;
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    background-color: var(--color-light-gray);
+}
+
+.edit:hover[b-jwkrm90v88] {
+    cursor: pointer;
+}
+
+form[b-jwkrm90v88] {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr auto;
+    gap: 12px;
+}
+
+button[b-jwkrm90v88] {
+    padding: 18px;
+}
 /* /Components/Pages/Home.razor.rz.scp.css */
 section[b-h1w4yl8sc9] {
     display: grid;
     grid-template-rows: 1fr 1fr;
+    gap: 25px;
 }
 
 .profile[b-h1w4yl8sc9] {

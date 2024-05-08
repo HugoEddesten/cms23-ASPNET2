@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VraReu6x++AusckO+lOOkDJEcOMK+7oED4UKBH9X0LY=",
+  "Hash": "fHmHkoQihyw9M4mS7P2YQ74F2s7GLzi7xllmeBCvMh4=",
   "Source": "AccountPage",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "AccountPage\\wwwroot",
       "Source": "AccountPage",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\AccountPage.styles.css",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\AccountPage.styles.css",
       "SourceId": "AccountPage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "AccountPage.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\AccountPage.styles.css"
+      "OriginalItemSpec": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\AccountPage.styles.css"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\AccountPage.bundle.scp.css",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\AccountPage.bundle.scp.css",
       "SourceId": "AccountPage",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "AccountPage.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\AccountPage.bundle.scp.css"
+      "OriginalItemSpec": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-android\\scopedcss\\projectbundle\\AccountPage.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\app.css",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\app.css",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_components.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_components.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/_components.scss",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_components.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_cores.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_cores.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/_cores.scss",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\_cores.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_links.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_links.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/components/_links.scss",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\components\\_links.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_common.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_common.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/cores/_common.scss",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_common.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_fonts.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_fonts.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/cores/_fonts.scss",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/cores/_mixins.scss",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/cores/_typography.scss",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_typography.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_variables.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_variables.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/scss/cores/_variables.scss",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\css\\scss\\cores\\_variables.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.min.css",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.min.css",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.scss",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.scss",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\favicon.png",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\favicon.png",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\index.html",
+      "Identity": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\index.html",
       "SourceId": "AccountPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
+      "ContentRoot": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

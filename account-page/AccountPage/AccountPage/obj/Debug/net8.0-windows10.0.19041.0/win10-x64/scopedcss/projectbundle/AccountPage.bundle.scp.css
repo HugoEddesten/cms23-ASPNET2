@@ -115,14 +115,14 @@ section[b-jwkrm90v88] {
     cursor: pointer;
 }
 
-form[b-jwkrm90v88] {
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr auto;
-    gap: 12px;
+.form[b-jwkrm90v88] {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
 }
 
 button[b-jwkrm90v88] {
-    padding: 18px;
+    padding: 16px;
 }
 /* /Components/Pages/Home.razor.rz.scp.css */
 section[b-h1w4yl8sc9] {

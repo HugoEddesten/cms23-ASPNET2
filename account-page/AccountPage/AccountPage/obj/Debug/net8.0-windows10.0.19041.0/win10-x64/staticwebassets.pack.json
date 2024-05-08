@@ -1,79 +1,79 @@
 {
   "Files": [
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\AccountPage.styles.css",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\AccountPage.styles.css",
       "PackagePath": "staticwebassets\\AccountPage.styles.css"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\app.css",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_components.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_components.scss",
       "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_cores.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\_cores.scss",
       "PackagePath": "staticwebassets\\css\\scss\\_cores.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
       "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_links.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_links.scss",
       "PackagePath": "staticwebassets\\css\\scss\\components\\_links.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_common.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_common.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_common.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_fonts.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_fonts.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_fonts.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_mixins.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_typography.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_variables.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_variables.scss",
       "PackagePath": "staticwebassets\\css\\scss\\cores\\_variables.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.min.css",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.min.css",
       "PackagePath": "staticwebassets\\css\\site.min.css"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.scss",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.scss",
       "PackagePath": "staticwebassets\\css\\site.scss"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\favicon.png",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\index.html",
+      "Id": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

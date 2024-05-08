@@ -36,12 +36,12 @@ section {
     cursor: pointer;
 }
 
-form {
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr auto;
-    gap: 12px;
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
 }
 
 button {
-    padding: 18px;
+    padding: 16px;
 }

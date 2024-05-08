@@ -1,6 +1,7 @@
 section[b-h1w4yl8sc9] {
     display: grid;
     grid-template-rows: 1fr 1fr;
+    gap: 25px;
 }
 
 .profile[b-h1w4yl8sc9] {

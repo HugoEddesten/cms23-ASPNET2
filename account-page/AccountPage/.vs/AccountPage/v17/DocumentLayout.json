@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\",
+  "WorkspaceRootPath": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\components\\pages\\editprofile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\components\\pages\\editprofile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\components\\pages\\editprofile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\models\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\models\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\models\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\components\\pages\\editprofile.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\components\\pages\\editprofile.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\components\\pages\\editprofile.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\wwwroot\\css\\scss\\components\\_buttons.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\wwwroot\\css\\scss\\components\\_forms.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\cores\\_typography.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\cores\\_typography.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\wwwroot\\css\\scss\\cores\\_typography.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\cores\\_mixins.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\scss\\cores\\_mixins.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\wwwroot\\css\\scss\\cores\\_mixins.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|c:\\nackademin\\cms23-aspnet2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|d:\\nackademin\\cms23-aspnet-2\\account-page\\accountpage\\accountpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BDC8A1F1-B660-4364-A9B3-096860E634DD}|AccountPage\\AccountPage.csproj|solutionrelative:accountpage\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -60,28 +64,41 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountForm.cs",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Models\\AccountForm.cs",
-              "RelativeDocumentMoniker": "AccountPage\\Models\\AccountForm.cs",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Models\\AccountForm.cs",
-              "RelativeToolTip": "AccountPage\\Models\\AccountForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T10:58:39.51Z",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "AccountPage\\Components\\_Imports.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\_Imports.razor",
+              "RelativeToolTip": "AccountPage\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T12:01:30.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AccountForm.cs",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Models\\AccountForm.cs",
+              "RelativeDocumentMoniker": "AccountPage\\Models\\AccountForm.cs",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Models\\AccountForm.cs",
+              "RelativeToolTip": "AccountPage\\Models\\AccountForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:48:18.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "AccountPage\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "AccountPage\\Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -92,11 +109,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EditProfile.razor",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor",
               "RelativeDocumentMoniker": "AccountPage\\Components\\Pages\\EditProfile.razor",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor",
               "RelativeToolTip": "AccountPage\\Components\\Pages\\EditProfile.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-05T23:23:49.824Z",
               "EditorCaption": ""
@@ -109,11 +126,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "AccountPage\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\site.css",
               "RelativeToolTip": "AccountPage\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -122,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_buttons.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
               "RelativeDocumentMoniker": "AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
               "RelativeToolTip": "AccountPage\\wwwroot\\css\\scss\\components\\_buttons.scss",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
@@ -134,24 +151,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EditProfile.razor.css",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor.css",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor.css",
               "RelativeDocumentMoniker": "AccountPage\\Components\\Pages\\EditProfile.razor.css",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor.css",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\EditProfile.razor.css",
               "RelativeToolTip": "AccountPage\\Components\\Pages\\EditProfile.razor.css",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAABAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-05T23:46:46.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_forms.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
               "RelativeDocumentMoniker": "AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
               "RelativeToolTip": "AccountPage\\wwwroot\\css\\scss\\components\\_forms.scss",
               "ViewState": "AQIAAEsAAAAAAAAAAAAAAGQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
@@ -159,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_mixins.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
               "RelativeDocumentMoniker": "AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
               "RelativeToolTip": "AccountPage\\wwwroot\\css\\scss\\cores\\_mixins.scss",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
@@ -171,11 +188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_typography.scss",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
               "RelativeDocumentMoniker": "AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
               "RelativeToolTip": "AccountPage\\wwwroot\\css\\scss\\cores\\_typography.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
@@ -183,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Home.razor.css",
-              "DocumentMoniker": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor.css",
+              "DocumentMoniker": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "AccountPage\\Components\\Pages\\Home.razor.css",
-              "ToolTip": "C:\\Nackademin\\cms23-ASPNET2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor.css",
+              "ToolTip": "D:\\nackademin\\cms23-ASPNET-2\\account-page\\AccountPage\\AccountPage\\Components\\Pages\\Home.razor.css",
               "RelativeToolTip": "AccountPage\\Components\\Pages\\Home.razor.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
