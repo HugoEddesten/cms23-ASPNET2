@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddressProvider")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01e7d3ddabfd8b32dc9b19482053a29506faa9c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddressProvider")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddressProvider")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
